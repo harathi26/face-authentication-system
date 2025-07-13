@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Authentication System
 
 A web-based face authentication system built with Flask and face_recognition library.
@@ -42,3 +43,7 @@ A web-based face authentication system built with Flask and face_recognition lib
 - `index.html`: Frontend interface
 - `requirements.txt`: Project dependencies
 - `students/`: Directory for storing face images (*.jpg)
+=======
+# face-authentication-system
+A web-based face authentication system using Flask
+>>>>>>> f260a5876b048df50c81b9f11d78aa137a0dbcae
