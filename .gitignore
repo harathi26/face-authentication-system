@@ -1,7 +1,12 @@
+# Python related
 venv/
 __pycache__/
 *.pyc
+
+# Environment and media
 .env
-*.jpg
-*.png
+students/
+
+# System files
 .DS_Store
+Thumbs.db

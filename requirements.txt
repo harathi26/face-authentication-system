@@ -1,6 +1,3 @@
 flask
-face_recognition
-numpy
-opencv-python
-gunicorn
 python-dotenv
+pillow
